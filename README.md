@@ -5,6 +5,7 @@ This website is created for Horiseon Social Media Solutions. It contains a navig
 
 ## Live Links:
 https://github.com/mkickham/Horiseon-Challenge-One
+
 https://mkickham.github.io/Horiseon-Challenge-One/
 
 ## Citations
